@@ -16,6 +16,7 @@
         "typescript"
     ],
     "repository": "EmilTholin/svelte-routing",
+    "type": "module",
     "main": "src/index.js",
     "types": "types/index.d.ts",
     "svelte": "src/index.js",
