@@ -22,5 +22,8 @@
     "svelte": "src/index.js",
     "devDependencies": {
         "svelte": "^3.59.1"
+    },
+    "peerDependencies": {
+        "svelte": "^3.59.1"
     }
 }
